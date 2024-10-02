@@ -52,4 +52,8 @@ This project focuses on predicting the market values of football players. It is 
 ### Feature Datatypes: Corrected the datatype for each feature.
 ### Missing Values: Addressed any missing values by applying appropriate techniques such as imputation or removing incomplete entries.
 
+## Model Prediction:
 
+<img width="383" alt="ModelPred1" src="https://github.com/user-attachments/assets/593834c1-4702-442b-96b1-65779dec5446">
+
+<img width="564" alt="ModelPred2" src="https://github.com/user-attachments/assets/f80a4c47-c456-47f4-9691-ef75083fc49b">
