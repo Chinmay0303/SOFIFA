@@ -43,14 +43,53 @@ This project focuses on predicting the market values of football players. It is 
 
 ### Team & Contract: Split the combined column into two separate columns for better clarity.
 
-<img width="362" alt="TeamContract" src="https://github.com/user-attachments/assets/1da7f4c8-820b-4bd8-b3de-964eaa869c51">
-
-<img width="481" alt="TeamContr2" src="https://github.com/user-attachments/assets/c763a9e3-cd29-489f-9d32-c0fdd7071898">
+<img width="362" alt="TeamContract" src="https://github.com/user-attachments/assets/1da7f4c8-820b-4bd8-b3de-964eaa869c51"><img width="481" alt="TeamContr2" src="https://github.com/user-attachments/assets/c763a9e3-cd29-489f-9d32-c0fdd7071898">
 
 
 
 ### Feature Datatypes: Corrected the datatype for each feature.
 ### Missing Values: Addressed any missing values by applying appropriate techniques such as imputation or removing incomplete entries.
+
+## 2. EDA
+
+### Distribution of Continuous Features
+
+![image](https://github.com/user-attachments/assets/c97a9c25-cc47-4c5c-952a-014f0f1ff9db)
+
+![image](https://github.com/user-attachments/assets/a0c6fbc7-f6af-4f95-8199-0786e0e06afb)
+
+![image](https://github.com/user-attachments/assets/80004b38-913b-4c94-b618-89ec514b37a0)
+
+### Relation b/w Continuous Features and Value_Mill
+
+![image](https://github.com/user-attachments/assets/631a871d-9422-4f77-b1d2-7ab6c3968dda)
+
+![image](https://github.com/user-attachments/assets/efd93371-66a2-43df-adc9-8af16db11aa8)
+
+![image](https://github.com/user-attachments/assets/7b4779c5-da05-4da8-98d5-0a6fad88aede)
+
+![image](https://github.com/user-attachments/assets/de0fdd60-54ac-40b1-900c-df0a78aba0ea)
+
+### Distribution of Discrete Features
+
+![image](https://github.com/user-attachments/assets/2d63d192-2568-49b0-ad02-6910f282ad52)
+
+![image](https://github.com/user-attachments/assets/5cf432de-8b61-4a85-892e-b83a68b1e505)
+
+### Relation b/w Discrete Features and Value_Mill
+
+![image](https://github.com/user-attachments/assets/d66a8c30-86a7-4e15-9fef-4bc891aafc49)
+
+![image](https://github.com/user-attachments/assets/97555e98-9b31-4051-a7ac-753fee1de4cd)
+
+### Strip Plot
+
+![image](https://github.com/user-attachments/assets/1725e1ee-424e-4c17-9e16-f8596fb71a24)
+
+![image](https://github.com/user-attachments/assets/a4f1f6a9-1fad-482d-93b3-9612b95ed2fd)
+
+
+
 
 ## Model Prediction:
 
